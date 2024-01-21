@@ -41,3 +41,10 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+/web
+/ios
+/android
+/linux
+/mac
+/windows
